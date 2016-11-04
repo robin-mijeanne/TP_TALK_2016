@@ -1,0 +1,17 @@
+/************************************
+* Contrat IDL de talk *
+************************************/
+
+module Talk {
+
+    interface AfficherMessage {
+       oneway void afficherMessage(in string message);
+    };
+    
+    interface Chat{
+    	oneway void inscription (in AfficherMessage client);
+    	
+    	oneway void diffusion (in string message);
+    };
+};
+
