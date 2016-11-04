@@ -1,3 +1,10 @@
+/**
+ * Talk impl - Implementation de l'objet CORBA
+ * @author Robin DEGIRONDE
+ * @author Charles BANQUET
+ * @author Rémi BARBASTE
+ */
+
 import java.util.ArrayList;
 
 import Talk.AfficherMessage;

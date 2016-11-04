@@ -1,3 +1,9 @@
+/**
+ * Client chat
+ * @author Robin DEGIRONDE
+ * @author Charles BANQUET
+ * @author Rémi BARBASTE
+ */
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
