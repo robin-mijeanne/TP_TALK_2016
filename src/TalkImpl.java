@@ -1,6 +1,8 @@
 /**
- * Convertisseur Euro - Implementation de l'objet CORBA
- * @author Yann Steff & Emmanuel Lavinal
+ * Talk impl - Implementation de l'objet CORBA
+ * @author Robin DEGIRONDE
+ * @author Charles BANQUET
+ * @author Rémi BARBASTE
  */
 public class TalkImpl  extends Talk.AfficherMessagePOA {
 
